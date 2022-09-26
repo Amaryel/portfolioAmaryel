@@ -1,0 +1,114 @@
+html,body{
+
+    margin: 0px;
+    padding: 0px;
+    background-color: #2b2b2b;
+    
+
+
+}
+
+body{
+
+    font-family: 'Coda', cursive;
+   
+
+}
+
+
+.nav ul {
+
+    
+    margin-top: 0px;
+    list-style: none;
+    padding-left: 0;
+    text-align: right;
+    height: 50px;
+    font-family: 'Prompt', sans-serif; 
+
+    
+
+}
+
+.nav li{
+    
+    display: inline-block;
+    padding-right: 30px;
+    padding-left: 30px;
+    line-height: 50px;
+    font-size: 18px;
+    font-weight: 2000px;
+
+}
+
+.nav{
+    color: white;
+    text-align: right;
+    height: 50px;
+}
+
+.capa{
+
+    color: white;
+
+}
+
+.capa span{
+
+    color: #d17104;
+    display: block;
+
+
+}
+
+.capa div{
+
+    display: inline-block;
+    height: 600px;
+
+}
+
+.profile-picture{
+
+
+    width: 40%;
+    text-align: center;
+    
+}
+
+
+.profile-title{
+
+    width:59%;
+    vertical-align: top;
+}
+.profile-picture img{
+
+    width: 300px;
+    border-radius:300px;
+    margin-top: 120px;
+}
+
+
+.profile-title h1{
+
+    font-size: 68px;
+    line-height: 58px;
+    margin-top: 200px;
+    text-transform: uppercase;
+  
+
+}
+
+.profile-title h2{
+
+    font-size: 20px;
+    margin-top: -20px;
+    
+}
+
+.main {
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
